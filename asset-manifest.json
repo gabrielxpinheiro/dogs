@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dogs/static/css/main.207af13a.chunk.css",
+    "main.js": "/dogs/static/js/main.126ad8a3.chunk.js",
+    "main.js.map": "/dogs/static/js/main.126ad8a3.chunk.js.map",
+    "runtime-main.js": "/dogs/static/js/runtime-main.33f7373a.js",
+    "runtime-main.js.map": "/dogs/static/js/runtime-main.33f7373a.js.map",
+    "static/js/2.91753575.chunk.js": "/dogs/static/js/2.91753575.chunk.js",
+    "static/js/2.91753575.chunk.js.map": "/dogs/static/js/2.91753575.chunk.js.map",
+    "static/js/3.4f1435c6.chunk.js": "/dogs/static/js/3.4f1435c6.chunk.js",
+    "static/js/3.4f1435c6.chunk.js.map": "/dogs/static/js/3.4f1435c6.chunk.js.map",
+    "static/css/4.5dbaf44d.chunk.css": "/dogs/static/css/4.5dbaf44d.chunk.css",
+    "static/js/4.15c0604e.chunk.js": "/dogs/static/js/4.15c0604e.chunk.js",
+    "static/js/4.15c0604e.chunk.js.map": "/dogs/static/js/4.15c0604e.chunk.js.map",
+    "index.html": "/dogs/index.html",
+    "static/css/4.5dbaf44d.chunk.css.map": "/dogs/static/css/4.5dbaf44d.chunk.css.map",
+    "static/css/main.207af13a.chunk.css.map": "/dogs/static/css/main.207af13a.chunk.css.map",
+    "static/js/3.4f1435c6.chunk.js.LICENSE.txt": "/dogs/static/js/3.4f1435c6.chunk.js.LICENSE.txt",
+    "static/media/adicionar.2fe277f9.svg": "/dogs/static/media/adicionar.2fe277f9.svg",
+    "static/media/dogs-footer.9c77af3a.svg": "/dogs/static/media/dogs-footer.9c77af3a.svg",
+    "static/media/dogs.69bf6d22.svg": "/dogs/static/media/dogs.69bf6d22.svg",
+    "static/media/enviar.1112bddc.svg": "/dogs/static/media/enviar.1112bddc.svg",
+    "static/media/estatisticas.c69dd1e1.svg": "/dogs/static/media/estatisticas.c69dd1e1.svg",
+    "static/media/feed.b8b13312.svg": "/dogs/static/media/feed.b8b13312.svg",
+    "static/media/Login.module.css": "/dogs/static/media/moccababy.30502a2d.JPG",
+    "static/media/sair.a1917210.svg": "/dogs/static/media/sair.a1917210.svg",
+    "static/media/Header.module.css": "/dogs/static/media/usuario.6d65a298.svg",
+    "static/media/PhotoContent.module.css": "/dogs/static/media/visualizacao-black.ee94fd3d.svg",
+    "static/media/FeedPhotosItem.module.css": "/dogs/static/media/visualizacao.09cd5578.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f7373a.js",
+    "static/js/3.4f1435c6.chunk.js",
+    "static/css/main.207af13a.chunk.css",
+    "static/js/main.126ad8a3.chunk.js"
+  ]
+}
